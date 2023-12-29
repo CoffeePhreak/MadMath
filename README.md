@@ -131,8 +131,8 @@ My PB for addition/easy is 62 with 1 missed, set 12/25/2023
 >its related code will be removed.
 
 ### SOUND CREDITS
-[correct] (freesound.org/people/nicholasdaryl/sounds/563355)
+[correct](freesound.org/people/nicholasdaryl/sounds/563355)
 
-[incorrect] (freesound.org/people/Bertrof/sounds/131657)
+[incorrect](freesound.org/people/Bertrof/sounds/131657)
 
-[highscore] (freesound.org/people/bone666138/sounds/198874)
+[highscore](freesound.org/people/bone666138/sounds/198874)
