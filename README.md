@@ -26,9 +26,8 @@
 
 
 # TO USE MAD MATH
-Download and unzip MadMath.zip to the desired location,
-then double click MadMath.pyw in the MadMath directory
-to launch.
+From this repository's code button, download and unzip MadMath.zip to the desired location
+then double click MadMath.pyw in the MadMath directory to launch.
 
 
 ## ABOUT MAD MATH
