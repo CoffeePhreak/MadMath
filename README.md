@@ -46,7 +46,7 @@ to launch.
 >and within a few months I was able to sum any two single
 >digit numbers in roughly two seconds. It was very slow
 >going at the start, partly due to the number row being
-.the only way to input numbers. The program would save
+the only way to input numbers. The program would save
 >the high score in a hidden text file, and I would compete
 >with myself to push it as high as possible. At first I
 >would average around 12 per minute, but every day the
