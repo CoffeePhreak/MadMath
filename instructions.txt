@@ -1,0 +1,8 @@
+Navigation:
+Upon launch Mad Math will open up to the menu. There are 4 math operation selectors and 3 difficulty selectors that control which scoreboard is viewed by clicking the Hi-scores button, and which equations will be generated in the quiz. 
+
+Playing:
+When the quiz frame is opened by clicking Play! from the menu, the Enter/Return key is linked to the Start/Check button. Answers can be submitted by clicking "Check", but this is not optimal. Using a number pad with the dominant hand, and hovering on the Enter key with the other is the fastest way I've found to input answers. When the test reaches the end state it tries one last time to evaluate whatever is currently in the box for those clutch moments where you can input the answer, but not submit in time.
+
+Initials entry box:
+In order to prevent blank entries, once a letter has been entered into the box there can be no less than 1 letter in the box. If a mistake is made when typing in your initials, the first instinct might be to entirely clear the box. This wont work, but you can use the arrow keys to move and correct it after you get another character in. It is a database afterall, input sanitation is in place.
