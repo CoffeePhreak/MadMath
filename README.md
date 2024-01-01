@@ -74,25 +74,6 @@ the only way to input numbers. The program would save
 >subtraction, multiplication, and division can use this
 >program to hone their solution speed.
 
-I'm proud to have been able to put this together myself,
-and to be releasing it as a free and open source project.
-Contrarily I do accept coffee donations, but even if I
-don't receive a cent I'll happily maintain and improve
-this program in perpetuity as time permits. It's like
-helping an old friend that once helped me. I just hope
-it might help you too.
-
-CashApp: $CoffeePhreak
-
-Fellow Brave users can also drop me BAT
-
-
-
-My PB for addition/easy is 62 with 1 missed, set 12/25/2023
-
-
-
-
 
 ## ABOUT THE CODE
 >First off I'd like to announce my awareness of disregard
@@ -129,6 +110,22 @@ My PB for addition/easy is 62 with 1 missed, set 12/25/2023
 >a local scoreboard in my use case. This import also breaks my
 >one import rule, but once a more accurate timer is incorporated
 >its related code will be removed.
+
+
+I'm proud to have been able to put this together myself,
+and to be releasing it as a free and open source project.
+Contrarily I do accept coffee donations, but even if I
+don't receive a cent I'll happily maintain and improve
+this program in perpetuity as time permits. It's like
+helping an old friend that once helped me. I just hope
+it might help you too.
+
+CashApp: $CoffeePhreak
+
+Fellow Brave users can also drop me BAT
+
+My PB for addition/easy is 62 with 1 missed, set 12/25/2023
+
 
 ### SOUND CREDITS
 [correct](freesound.org/people/nicholasdaryl/sounds/563355)
