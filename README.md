@@ -104,12 +104,12 @@ the only way to input numbers. The program would save
 >be objectively unacceptable. I added a performance counter
 >in Frames.py to quickly test the variance between the quiz's
 >'implied time to complete' and the 'actual time to complete'.
->Simply uncomment lines: 2, 168, 175, and 179 and run MadMath.pyw
->from a command line or terminal to view. The variance on my
->machine averages 60.3 - 60.4 seconds which is acceptable for
->a local scoreboard in my use case. This import also breaks my
->one import rule, but once a more accurate timer is incorporated
->its related code will be removed.
+>Simply uncomment lines: 2, 168, 175, and 179  in classes/MadMath.py
+>and run MadMath.pyw from a command line or terminal to view.
+>The variance on my machine averages 60.3 - 60.4 seconds which
+>is acceptable for a local scoreboard in my use case. This
+>import also breaks my one import rule, but once a more accurate
+>timer is incorporated its related code will be removed.
 
 
 I'm proud to have been able to put this together myself,
